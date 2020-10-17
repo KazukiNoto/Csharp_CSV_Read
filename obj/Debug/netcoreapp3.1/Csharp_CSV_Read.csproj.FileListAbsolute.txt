@@ -1,0 +1,13 @@
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read.deps.json
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read.runtimeconfig.json
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read.runtimeconfig.dev.json
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read.dll
+/workspaces/Csharp_CSV_Read/bin/Debug/netcoreapp3.1/Csharp_CSV_Read.pdb
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.csprojAssemblyReference.cache
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.AssemblyInfoInputs.cache
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.AssemblyInfo.cs
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.csproj.CoreCompileInputs.cache
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.dll
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.pdb
+/workspaces/Csharp_CSV_Read/obj/Debug/netcoreapp3.1/Csharp_CSV_Read.genruntimeconfig.cache
